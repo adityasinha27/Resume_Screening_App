@@ -33,6 +33,7 @@ git clone https://github.com/your-username/resume-screening-app.git
 cd resume-screening-app
 
 ---
-### 2. Install required libraries
-```bash
+
+2. Install required libraries
+
 pip install streamlit scikit-learn python-docx PyPDF2
